@@ -1,0 +1,11 @@
+.cards-mini {
+    border-color: none;
+    line-height: 20px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid rgba(128, 255, 0, 0.123);
+    padding-top: 15px;
+}
+.image-mini {
+    width: 20%;
+    border-radius: 50%;
+}

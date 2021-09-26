@@ -1,0 +1,19 @@
+.cards {
+border: 2px solid #fff35e;
+border-radius: 10px;
+line-height: 40%;
+padding-top: 40px;
+}
+.image-shape {
+    border-radius: 50%;
+    width: 50%;
+}
+.card-headline {
+    border-bottom: 2px solid rgba(197, 137, 46, 0.164);
+}
+.list-class {
+    line-height: 5px;
+}
+.dollar {
+    color: #ff5e5e;
+}
